@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeShell.Test", "SeShellTest\SeShell.Test.csproj", "{39A06612-5E45-462B-8E00-1EED59700717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeShellTestStudio", "SeShellTestStudio\SeShellTestStudio.csproj", "{D14E19F1-D2DE-48EB-B208-65F6D888D492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeShell.Test.XMLTestResult", "SeShell.Test.XMLTestResult\SeShell.Test.XMLTestResult.csproj", "{B4BB0EEB-41C5-466B-BE8E-6BFF2C86E8FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A06612-5E45-462B-8E00-1EED59700717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A06612-5E45-462B-8E00-1EED59700717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A06612-5E45-462B-8E00-1EED59700717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A06612-5E45-462B-8E00-1EED59700717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14E19F1-D2DE-48EB-B208-65F6D888D492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14E19F1-D2DE-48EB-B208-65F6D888D492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14E19F1-D2DE-48EB-B208-65F6D888D492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14E19F1-D2DE-48EB-B208-65F6D888D492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BB0EEB-41C5-466B-BE8E-6BFF2C86E8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BB0EEB-41C5-466B-BE8E-6BFF2C86E8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BB0EEB-41C5-466B-BE8E-6BFF2C86E8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BB0EEB-41C5-466B-BE8E-6BFF2C86E8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
