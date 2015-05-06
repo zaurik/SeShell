@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/P0_TestAutomation/!svn/ver/85/trunk/Selenium/SeShellTest/SeShellTest/TestCases
+END
+ContactTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/P0_TestAutomation/!svn/ver/83/trunk/Selenium/SeShellTest/SeShellTest/TestCases/ContactTest.cs
+END
+CreateUserTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/P0_TestAutomation/!svn/ver/85/trunk/Selenium/SeShellTest/SeShellTest/TestCases/CreateUserTest.cs
+END
+UserDashBoardTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/P0_TestAutomation/!svn/ver/74/trunk/Selenium/SeShellTest/SeShellTest/TestCases/UserDashBoardTest.cs
+END
+LoginTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/P0_TestAutomation/!svn/ver/85/trunk/Selenium/SeShellTest/SeShellTest/TestCases/LoginTest.cs
+END
+TestSuite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/P0_TestAutomation/!svn/ver/74/trunk/Selenium/SeShellTest/SeShellTest/TestCases/TestSuite.cs
+END

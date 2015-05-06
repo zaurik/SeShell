@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/P0_TestAutomation/!svn/ver/85/trunk/Selenium/SeShellTest/SeShellTest/Core
+END
+ThreadWait.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/P0_TestAutomation/!svn/ver/82/trunk/Selenium/SeShellTest/SeShellTest/Core/ThreadWait.cs
+END
+BaseClass.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/P0_TestAutomation/!svn/ver/85/trunk/Selenium/SeShellTest/SeShellTest/Core/BaseClass.cs
+END
+ScreenShotImage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/P0_TestAutomation/!svn/ver/84/trunk/Selenium/SeShellTest/SeShellTest/Core/ScreenShotImage.cs
+END
+EventLogger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/P0_TestAutomation/!svn/ver/74/trunk/Selenium/SeShellTest/SeShellTest/Core/EventLogger.cs
+END
+Configuration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/P0_TestAutomation/!svn/ver/85/trunk/Selenium/SeShellTest/SeShellTest/Core/Configuration.cs
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/P0_TestAutomation/!svn/ver/85/trunk/Selenium/SeShellTest/SeShellTest
+END
+nunit-console.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/P0_TestAutomation/!svn/ver/74/trunk/Selenium/SeShellTest/SeShellTest/nunit-console.exe.config
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/P0_TestAutomation/!svn/ver/74/trunk/Selenium/SeShellTest/SeShellTest/app.config
+END
+SeShell.Test.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/P0_TestAutomation/!svn/ver/85/trunk/Selenium/SeShellTest/SeShellTest/SeShell.Test.csproj
+END
